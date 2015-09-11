@@ -111,7 +111,7 @@ nav > ul > li > div {
 }
 
 nav > ul > li:hover > div {
-	display: block;
+	display: inline-block;
 	opacity: 1;
 	visibility: visible;
 }
