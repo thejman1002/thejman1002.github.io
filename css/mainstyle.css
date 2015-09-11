@@ -77,10 +77,6 @@ nav > ul > li > a {
 	text-decoration: none;
 }
 
-nav > ul > li:hover {
-	background-color: rgb( 40, 44, 47 );
-}
-
 nav > ul > li:hover > a {
 	color: rgb( 255, 255, 255 );
 }
@@ -89,7 +85,7 @@ nav > ul > li:hover > a {
 ------------------------------------------------------------------------*/
 
 nav > ul > li > div {
-	background-color: rgb( 40, 44, 47 );
+	background-color: #1d1818;
 	border-top: 0;
 	border-left: 40px transparent;
 	display: none;
