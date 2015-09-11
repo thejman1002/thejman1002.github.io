@@ -41,7 +41,7 @@ body {
 
 nav {
 	background-color: #1d1818;
-	border: 1px solid #dedede;
+	border: 1px solid #060080;
 	border-radius: 4px;
 	color: #888;
 	display: block;
@@ -69,7 +69,7 @@ nav ul li {
 }
 	
 nav > ul > li > a {
-	color: #aaa;
+	color: #060080;
 	display: block;
 	line-height: 56px;
 	padding: 0 24px;
