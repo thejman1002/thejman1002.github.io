@@ -95,17 +95,18 @@ nav > ul > li > div {
 	visibility: hidden;
 	z-index: 100;
 	
-	-webkit-transiton: opacity 0.2s;
-	-moz-transition: opacity 0.2s;
-	-ms-transition: opacity 0.2s;
-	-o-transition: opacity 0.2s;
-	-transition: opacity 0.2s;
+	-webkit-transiton: opacity 0.5s, top 0.6s;
+	-moz-transition: opacity 0.5s, top 0.6s;
+	-ms-transition: opacity 0.5s, top 0.6s;
+	-o-transition: opacity 0.5s, top 0.6s;
+	-transition: opacity 0.5s, top 0.6s;
 }
 
 nav > ul > li:hover > div {
 	display: block;
 	opacity: 1;
 	visibility: visible;
+	top: 100%;
 }
 
 nav > ul > li > div ul > li {
