@@ -92,12 +92,12 @@ nav > ul > li > div {
 	background-color: rgb( 40, 44, 47 );
 	border-top: 0;
 	border-radius: 0 0 4px 4px;
-	display: none;
-	margin: 20px 0px 0px 0px;
-	opacity: 0;
+	display: block;
+	opacity: 1;
 	position: absolute;
+	top: 100%;
 	width: 165px;
-	visibility: hidden;
+	/*visibility: hidden;*/
 	z-index: 100;
 	
 	-webkit-transiton: opacity 0.2s;
@@ -115,6 +115,8 @@ nav > ul > li:hover > div {
 
 nav > ul > li > div ul > li {
 	display: block;
+	float: none;
+	position: relative;
 }
 
 nav > ul > li > div ul > li > a {
