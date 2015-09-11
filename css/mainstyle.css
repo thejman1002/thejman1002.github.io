@@ -93,16 +93,15 @@ nav > ul > li > div {
 	width: 100%;
 	visibility: hidden;
 	
-	-webkit-transiton: top 0.6s;
-	-moz-transition: top 0.6s;
-	-ms-transition: top 0.6s;
-	-o-transition: top 0.6s;
-	-transition: top 0.6s;
+	-webkit-transiton: top 2s;
+	-moz-transition: top 2s;
+	-ms-transition: top 2s;
+	-o-transition: top 2s;
+	-transition: top 2s;
 }
 
 nav > ul > li:hover > div {
 	display: block;
-	opacity: 1;
 	visibility: visible;
 	top: 100%;
 }
