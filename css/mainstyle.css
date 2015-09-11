@@ -111,13 +111,13 @@ nav > ul > li > div {
 }
 
 nav > ul > li:hover > div {
-	display: inline-block;
+	display: block;
 	opacity: 1;
 	visibility: visible;
 }
 
 nav > ul > li > div ul > li {
-	display: block;
+	display: inline-block;
 	float: none;
 	position: relative;
 }
