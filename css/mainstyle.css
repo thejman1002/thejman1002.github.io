@@ -72,6 +72,14 @@ nav > ul > li > a {
 	text-decoration: none;
 }
 
+nav > ul > li:hover {
+	background-color: rgb( 40, 44, 47 );
+}
+
+nav > ul > li:hover > a {
+	color: rgb( 255, 255, 255 );
+}
+
 #wrapper {
 	width: 956px;
 	margin: 0 auto;
