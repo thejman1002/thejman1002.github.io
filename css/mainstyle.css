@@ -50,7 +50,7 @@ nav {
 	top: 20px;
 	position: relative;
 	overflow: hidden;
-	width: 80%; 
+	width: 100%; 
 }
 
 nav ul {
@@ -92,6 +92,6 @@ nav > ul > li:hover > a {
 
 
 #wrapper {
-	width: 956px;
+	width: 80%;
 	margin: 0 auto;
 }
