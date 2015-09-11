@@ -78,6 +78,7 @@ nav > ul > li > a {
 
 nav > ul > li:hover {
 	background-color: rgb( 40, 44, 47 );
+	font-size: 20px;
 }
 
 nav > ul > li:hover > a {
