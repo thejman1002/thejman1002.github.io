@@ -47,7 +47,6 @@ nav {
 	display: block;
 	margin: auto;
 	top: 20px;
-	position: relative;
 	overflow: hidden;
 	width: 100%; 
 }
@@ -55,6 +54,7 @@ nav {
 nav ul {
 	margin: 0;
 	padding: 0;
+	position: relative;
 }
 
 nav ul li {
