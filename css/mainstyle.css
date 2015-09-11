@@ -35,6 +35,10 @@ body {
 	position: relative;
 }
 
+
+/*Navigation's Style
+---------------------------------------------------------------*/
+
 nav {
 	background-color: #fff;
 	border: 1px solid #dedede;
@@ -79,6 +83,11 @@ nav > ul > li:hover {
 nav > ul > li:hover > a {
 	color: rgb( 255, 255, 255 );
 }
+
+
+
+/*--------------------------------------------------------------------------*/
+
 
 #wrapper {
 	width: 956px;
