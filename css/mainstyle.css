@@ -46,15 +46,18 @@ nav {
 	color: #888;
 	display: block;
 	margin: auto;
+	position: relative;
 	top: 20px;
-	overflow: hidden;
 	width: 100%; 
 }
 
 nav ul {
 	margin: 0;
 	padding: 0;
-	position: relative;
+}
+
+nav ul:after {
+	content: ""; clear: both; display: block;
 }
 
 nav ul li {
