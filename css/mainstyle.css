@@ -78,7 +78,7 @@
   padding: 10px 20px;
 }
 #cssmenu > ul > li:hover {
-  border-left: 3px solid #D0CCD1;
+  border-left: 3px solid #000;
 }
 #cssmenu ul li:hover > a {
   color: #000;
@@ -107,7 +107,7 @@
   background: #8E988B;
 }
 #cssmenu ul ul li:last-child {
-  border-bottom: 3px solid #000;
+  border-bottom: 3px solid #002AFF;
   padding-bottom: 10px;
 }
 #cssmenu ul ul li:first-child {
@@ -125,7 +125,7 @@
   left: -20px;
   top: 13px;
   border-left: 10px solid transparent;
-  border-right: 10px solid #000;
+  border-right: 10px solid #002AFF;
   border-bottom: 10px solid transparent;
   border-top: 10px solid transparent;
 }
