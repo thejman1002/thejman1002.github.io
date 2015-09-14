@@ -27,9 +27,6 @@
   line-height: 1em;
   vertical-align: middle;
 }
-#cssmenu ul > li{
-  border-bottom: 1px solid #002AFF;
-}
 #cssmenu ul li.hover,
 #cssmenu ul li:hover {
   position: relative;
@@ -83,6 +80,10 @@
 }
 #cssmenu > ul > li {
   border-left: 3px solid #002AFF;
+  border-bottom: 1px solid #002AFF;
+}
+#cssmenu > ul > li:last-child{
+  border-bottom: none;
 }
 #cssmenu > ul > li > a {
   padding: 10px 20px;
