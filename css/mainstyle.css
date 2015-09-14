@@ -26,10 +26,9 @@
   min-height: 1px;
   line-height: 1em;
   vertical-align: middle;
-  border-bottom: 1px solid #002AFF;
 }
-#cssmeny ul li:last-child{
-  border-bottom: none;
+#cssmeny ul > li{
+  border-bottom: 1px solid #002AFF;
 }
 #cssmenu ul li.hover,
 #cssmenu ul li:hover {
