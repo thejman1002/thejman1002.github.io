@@ -107,7 +107,7 @@
   background: #8E988B;
 }
 #cssmenu ul ul li:last-child {
-  border-bottom: 3px solid #002AFF;
+  border-bottom: 3px solid #000;
   padding-bottom: 10px;
 }
 #cssmenu ul ul li:first-child {
