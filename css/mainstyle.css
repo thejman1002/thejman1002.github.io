@@ -61,7 +61,7 @@
 #cssmenu ul a:link,
 #cssmenu ul a:visited {
   display: block;
-  color: #848889;
+  color: #ffffff;
   text-decoration: none;
   font-weight: 300;
 }
@@ -78,13 +78,13 @@
   padding: 10px 20px;
 }
 #cssmenu > ul > li:hover {
-  border-left: 3px solid #3dbd99;
+  border-left: 3px solid #D0CCD1;
 }
 #cssmenu ul li:hover > a {
-  color: #3dbd99;
+  color: #000;
 }
 #cssmenu > ul > li:hover {
-  background: #f6f6f6;
+  background: #8E988B;
 }
 /* Sub Menu */
 #cssmenu ul ul a:link,
