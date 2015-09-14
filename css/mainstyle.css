@@ -1,14 +1,18 @@
 @import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);
 /*Body Styles*/
-
-#left_side_bar {
-  width:90%;
+#body_wrapper {
+  width: 90%;
   margin: 10px auto;
+}
+#left_side_bar {
+  width: 30%;
+  margin: auto;
+  float: left;
 }
 
 /*Title Bar Style*/
 #titlebar {
-  width:100%;
+  width: 100%;
   border-bottom: 3px solid #000;
   margin: 0 auto;
 }
