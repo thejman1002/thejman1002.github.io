@@ -6,6 +6,12 @@
   margin:auto;
 }
 
+/*Title Bar Style*/
+#titlebar {
+  width:100%;
+  border-bottom: 3px solid #000;
+}
+
 /* Starter CSS for Flyout Menu */
 #cssmenu,
 #cssmenu ul,
