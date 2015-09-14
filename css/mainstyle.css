@@ -27,7 +27,7 @@
   line-height: 1em;
   vertical-align: middle;
 }
-#cssmeny ul > li{
+#cssmenu ul > li{
   border-bottom: 1px solid #002AFF;
 }
 #cssmenu ul li.hover,
