@@ -107,7 +107,7 @@
   background: #8E988B;
 }
 #cssmenu ul ul li:last-child {
-  border-bottom: 3px solid #002AFF;
+  border-bottom: 3px solid #000;
   padding-bottom: 10px;
 }
 #cssmenu ul ul li:first-child {
@@ -125,7 +125,7 @@
   left: -20px;
   top: 13px;
   border-left: 10px solid transparent;
-  border-right: 10px solid #002AFF;
+  border-right: 10px solid #8E988B;
   border-bottom: 10px solid transparent;
   border-top: 10px solid transparent;
 }
