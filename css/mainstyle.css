@@ -4,7 +4,12 @@
   width: 90%;
   margin: 10px auto;
 }
-#left_side_bar {
+
+#body_wrapper > table {
+  width: 100%;
+}
+
+#left_panel {
   width: 30%;
   float: left;
 }
