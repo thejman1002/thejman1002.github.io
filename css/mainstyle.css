@@ -4,9 +4,16 @@
   max-width: 90%;
   margin: 10px auto;
 }
+#body_wrapper > aside:first-child {
+  margin-right: 5px;
+}
+#body_wrapper > aside:last-child {
+  margin-left: 5px;
+}
 aside {
   width:25%;
   float: left;
+
 }
 section {
   width: 50%;
