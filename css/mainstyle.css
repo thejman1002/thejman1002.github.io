@@ -14,7 +14,6 @@
   width: 50%;
   position: relative;
   float: left;
-  padding: 5px;
 }
 
 /*Title Bar Style*/
@@ -97,8 +96,7 @@
   background: #000;
 }
 #cssmenu > ul > li {
-  border-left: 3px solid #002AFF;
-  border-bottom: 1px solid #002AFF;
+  border-left: 3px solid #8E988B;
 }
 #cssmenu > ul > li:last-child{
   border-bottom: none;
