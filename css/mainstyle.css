@@ -2,6 +2,7 @@
 /*Body Styles*/
 #body_wrapper {
   width: 90%;
+  height: 100%;
   margin: 10px auto;
 }
 #body_wrapper > table {
