@@ -6,9 +6,11 @@
 }
 aside {
   width:25%;
+  float: left;
 }
 section {
   width: 50%;
+  float: left;
 }
 
 /*Title Bar Style*/
