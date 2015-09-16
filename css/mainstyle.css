@@ -4,11 +4,11 @@
   max-width: 90%;
   position: relative;
   margin: 10px auto;
-  overflow: overlay;
 }
 aside {
   width: 25%;
   position: absolute;
+  overflow: overlay;
   float: left;
   padding: 5px;
 }
