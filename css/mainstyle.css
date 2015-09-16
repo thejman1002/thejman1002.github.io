@@ -4,9 +4,11 @@
   max-width: 90%;
   margin: 10px auto;
 }
-#body_wrapper table,
-#body_Wrapper table tr {
+#body_wrapper > table {
   width: 100%;
+}
+#body_wrapper > table > tr {
+  align: center;
 }
 #left_panel {
   width: 30%;
