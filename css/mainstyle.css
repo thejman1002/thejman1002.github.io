@@ -4,20 +4,15 @@
   max-width: 90%;
   margin: 10px auto;
 }
-#body_wrapper > aside:first-child {
-  margin-right: 5px;
-}
-#body_wrapper > aside:last-child {
-  margin-left: 5px;
-}
 aside {
-  width:25%;
+  width: 25%;
   float: left;
-
+  padding: 5px;
 }
 section {
   width: 50%;
   float: left;
+  padding: 10px;
 }
 
 /*Title Bar Style*/
