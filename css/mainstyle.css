@@ -11,10 +11,10 @@
   float: left;
 }
 #middle_panel {
-  width: 50%;
+  width: 40%;
   position: relative;
   float: left;
-
+  padding: 10px;
 }
 
 /*Title Bar Style*/
