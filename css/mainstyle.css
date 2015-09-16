@@ -8,7 +8,7 @@
 }
 aside {
   width: 25%;
-  position: relative;
+  position: absolute;
   float: left;
   padding: 5px;
 }
