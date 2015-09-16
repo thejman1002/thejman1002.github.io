@@ -9,7 +9,8 @@
 }
 aside {
   width: 25%;
-  position: absolute;
+  height: 100%;
+  position: relative;
   float: left;
   padding: 5px;
 }
