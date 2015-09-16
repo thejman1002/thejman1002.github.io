@@ -1,11 +1,9 @@
 @import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);
 /*Body Styles*/
-body {
-  max-width: 100%;
-}
 #body_wrapper {
   max-width: 90%;
   margin: 10px auto;
+  overflow: overlay;
 }
 aside {
   width: 25%;
