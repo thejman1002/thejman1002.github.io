@@ -1,7 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);
 /*Body Styles*/
 aside {
-  width: 200px;
+  width: 25%;
   float: left;
   padding: 5px;
 }
