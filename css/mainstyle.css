@@ -2,7 +2,6 @@
 /*Body Styles*/
 #body_wrapper {
   width: 90%;
-  height: 100%;
   margin: auto;
 }
 #left_panel {
@@ -15,7 +14,7 @@
   width: 25%;
   position: relative;
   float: left;
-  padding-left: 2px;
+  padding-left: 5px;
 }
 #middle_panel {
   width: 47%;
