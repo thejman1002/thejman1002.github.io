@@ -120,9 +120,12 @@
   -o-transition: 2s ease;
   transition: 2s ease;
 }
+#cssmenu > ul > li > a:after {
+  background-image: url('assets/refereebg.png');
+  opacity:0;
+}
 #cssmenu > ul > li:hover {
   border-left: 3px solid #000;
-  background-image: url('assets/refereebg.png');
 }
 #cssmenu ul li:hover > a {
   color: #000;
