@@ -96,6 +96,9 @@
   color: #ffffff;
   text-decoration: none;
   font-weight: 300;
+  background-image: url(assets/refereebg.png);
+  background-repeat: no-repeat;
+  background-position: 0px center;
 }
 #cssmenu > ul {
   float: none;
@@ -105,9 +108,6 @@
 }
 #cssmenu > ul > li {
   border-left: 3px solid #8E988B;
-  background-image: url(assets/refereebg.png);
-  background-repeat: no-repeat;
-  background-position: 0px center;
   -webkit-transition: 1s ease;
   -moz-transition: 1s ease;
   -o-transition: 1s ease;
