@@ -51,9 +51,10 @@
   min-height: 1px;
   line-height: 1em;
   vertical-align: middle;
-  background-image: url(assets/refereebg.png);
-  background-repeat: no-repeat;
-  background-position: 0px center;
+  background-image: url("assets/refereebg.png");
+  background-repeat:no-repeat;
+  width:50px;
+  height:50px;
 }
 #cssmenu ul li.hover,
 #cssmenu ul li:hover {
