@@ -108,6 +108,7 @@
   background-image: url("../assets/refereebg.png");
   background-repeat:no-repeat;
   background-position: 0px center;
+  background-size: 100%;
   -webkit-transition: 1s ease;
   -moz-transition: 1s ease;
   -o-transition: 1s ease;
