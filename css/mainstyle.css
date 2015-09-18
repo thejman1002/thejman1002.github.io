@@ -104,7 +104,7 @@
   background: #000;
 }
 #cssmenu > ul > li {
-  border-left: 100px solid #8E988B;
+  border-left: 3px solid #8E988B;
 }
 #cssmenu > ul > li:last-child{
   border-bottom: none;
