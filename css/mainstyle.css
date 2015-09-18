@@ -115,6 +115,7 @@
 }
 #cssmenu > ul > li > a {
   padding: 10px 20px;
+  opacity: 0;
   -webkit-transition: 2s ease;
   -moz-transition: 2s ease;
   -o-transition: 2s ease;
