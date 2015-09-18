@@ -105,9 +105,8 @@
 }
 #cssmenu > ul > li {
   border-left: 3px solid #8E988B;
-  background-image: url("assets/refereebg.png");
+  background-image: url("../assets/refereebg.png");
   background-repeat:no-repeat;
-  width:100%;
   -webkit-transition: 1s ease;
   -moz-transition: 1s ease;
   -o-transition: 1s ease;
