@@ -105,10 +105,10 @@
 }
 #cssmenu > ul > li {
   border-left: 3px solid #8E988B;
-  -webkit-transition: 1s, text-align 4s ease;
-  -moz-transition: 1s, text-align 4s ease;
-  -o-transition: 1s, text-align 4s ease;
-  transition: 1s, text-align 4s ease;
+  -webkit-transition: 1s ease;
+  -moz-transition: 1s ease;
+  -o-transition: 1s ease;
+  transition: 1s ease;
 }
 #cssmenu > ul > li:last-child{
   border-bottom: none;
