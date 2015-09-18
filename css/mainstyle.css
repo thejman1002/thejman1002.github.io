@@ -105,10 +105,10 @@
 }
 #cssmenu > ul > li {
   border-left: 3px solid #8E988B;
-  -webkit-transition: border-left 1s ease;
-  -moz-transition: border-left 1s ease;
-  -o-transition: border-left 1s ease;
-  transition: border-left 1s ease;
+  -webkit-transition: all 0.7s ease;
+  -moz-transition: all 0.7s ease;
+  -o-transition: all 0.7s ease;
+  transition: all 0.7s ease;
 }
 #cssmenu > ul > li:last-child{
   border-bottom: none;
@@ -118,12 +118,10 @@
 }
 #cssmenu > ul > li:hover {
   border-left: 3px solid #000;
+  background: #8E988B;
 }
 #cssmenu ul li:hover > a {
   color: #000;
-}
-#cssmenu > ul > li:hover {
-  background: #8E988B;
 }
 
 /* Sub Menu */
