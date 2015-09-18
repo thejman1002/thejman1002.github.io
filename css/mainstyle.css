@@ -123,6 +123,7 @@
 }
 #cssmenu ul li:hover > a {
   color: #000;
+  padding: 10px 100px;
 }
 
 /* Sub Menu */
