@@ -96,13 +96,12 @@
   color: #ffffff;
   text-decoration: none;
   font-weight: 300;
-  background-image: url('assets/refereebg.png');
 }
 #cssmenu > ul {
   float: none;
 }
 #cssmenu ul {
-  background: #000;
+  background-image: url('assets/refereebg.png');
 }
 #cssmenu > ul > li {
   border-left: 3px solid #8E988B;
