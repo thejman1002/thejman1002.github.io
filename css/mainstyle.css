@@ -23,6 +23,12 @@
   padding: 10px;
   border-right: 3px solid #000;
 }
+#bgimage {
+  background-image: url("../assets/refereebg.png");
+  background-repeat:no-repeat;
+  background-position: 0px center;
+  background-size: 100% 100%;
+}
 
 /*Title Bar Style*/
 #titlebar {
