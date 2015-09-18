@@ -101,7 +101,7 @@
   float: none;
 }
 #cssmenu ul {
-  background-image: url('assets/refereebg.png');
+  background-image: url(assets/refereebg.png) no-repeat;
 }
 #cssmenu > ul > li {
   border-left: 3px solid #8E988B;
