@@ -26,6 +26,14 @@
   padding: 10px;
   border-right: 1px solid #000;
 }
+footer {
+  position: relative;
+  text-align: center;
+  border-top: 2px solid #000;
+  width: 90%;
+  bottom: 0;
+  margin: auto;
+}
 
 /*Title Bar Style*/
 #titlebar {
