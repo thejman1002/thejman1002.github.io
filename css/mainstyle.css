@@ -131,7 +131,7 @@
   background-repeat:no-repeat;
   background-position: 0px center;
   background-size: 100% 100%;
-  background: rgba(0, 0, 0, 1);
+  background: rgba(0, 0, 0, 0);
 }
 
 /* Sub Menu */
