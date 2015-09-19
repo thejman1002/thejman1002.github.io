@@ -33,7 +33,8 @@
   padding: 10px;
   border-right: 1px solid #000;
 }
-#middle_panel h1 {
+#middle_panel h1,
+#right_panel h1 {
   text-align: center;
   font-size: 30px;
 }
