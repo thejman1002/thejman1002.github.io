@@ -104,12 +104,6 @@
   background: #000;
 }
 #cssmenu > ul > li {
-  border-left: 3px solid #8E988B;
-  background: url("../assets/refereebg.png");
-  background-repeat:no-repeat;
-  background-position: 0px center;
-  background-size: 100% 100%;
-  background: rgba(0, 0, 0, 1);
   -webkit-transition: 1s ease;
   -moz-transition: 1s ease;
   -o-transition: 1s ease;
@@ -120,18 +114,20 @@
 }
 #cssmenu > ul > li > a {
   padding: 10px 20px;
+  background-image: url("../assets/refereebg.png");
+  background-repeat:no-repeat;
+  background-position: 0px center;
+  background-size: 100% 100%;
   -webkit-transition: 2s ease;
   -moz-transition: 2s ease;
   -o-transition: 2s ease;
   transition: 2s ease;
 }
 #cssmenu > ul > li:hover {
-  border-left: 3px solid #000;
   background-image: url("../assets/refereebg.png");
   background-repeat:no-repeat;
   background-position: 0px center;
   background-size: 100% 100%;
-  background: rgba(0, 0, 0, 0);
 }
 #cssmenu > ul > li:hover > a {
   color: #000;
