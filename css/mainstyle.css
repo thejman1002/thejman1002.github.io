@@ -118,6 +118,7 @@
   background-repeat:no-repeat;
   background-position: 0px center;
   background-size: 100% 100%;
+  background: rgba(0, 0, 0, 0);
   -webkit-transition: 2s ease;
   -moz-transition: 2s ease;
   -o-transition: 2s ease;
