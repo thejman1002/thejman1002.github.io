@@ -122,7 +122,7 @@
   padding: 10px 30% 10px 70%;
   background: rgba(0, 0, 0, 0);
 }
-#cssmenu > ul > li > ul:hover > a {
+#cssmenu > ul > li > a:hover > ul:hover{
   background-image: url("../assets/refereebg.png");
   background-repeat:no-repeat;
   background-position: 0px center;
