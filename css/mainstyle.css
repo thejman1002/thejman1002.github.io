@@ -22,7 +22,8 @@
 #top_section {
   border-bottom: 1px solid #000;
   vertical-align: middle;
-  margin: 20px 0 20px 0;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 #middle_panel {
   width: 47%;
