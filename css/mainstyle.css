@@ -115,6 +115,8 @@
 #cssmenu > ul > li > a {
   padding: 10px 20px;
   background: rgba(0, 0, 0, 1);
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
   -webkit-transition: 1s ease;
   -moz-transition: 1s ease;
   -o-transition: 1s ease;
@@ -123,7 +125,8 @@
 #cssmenu > ul > li:hover > a {
   color: #000;
   padding: 10px 30% 10px 70%;
-  border: 1px solid #EDEA02;
+  border-top: 1px solid #EDEA02;
+  border-bottom: 1px solid #EDEA02;
   background: rgba(0, 0, 0, 0);
 }
 
