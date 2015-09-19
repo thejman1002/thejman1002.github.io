@@ -21,6 +21,8 @@
 }
 #top_section {
   border-bottom: 1px solid #000;
+  vertical-align: middle;
+  margin: auto;
 }
 #middle_panel {
   width: 47%;
