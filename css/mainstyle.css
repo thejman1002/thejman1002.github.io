@@ -109,9 +109,6 @@
   background-position: 0px center;
   background-size: 100% 100%;
 }
-#cssmenu > ul > li:last-child{
-  border-bottom: none;
-}
 #cssmenu > ul > li > a {
   padding: 10px 20px;
   background: rgba(0, 0, 0, 1);
@@ -140,11 +137,11 @@
 }
 #cssmenu ul ul a {
   padding: 8px 0;
-  border-bottom: 1px solid #D0CCD1;
+  border-bottom: 1px solid #000;
 }
 #cssmenu ul ul li {
   padding: 0 20px;
-  background: #8E988B;
+  background: #EDEA02;
 }
 #cssmenu ul ul li:last-child {
   border-bottom: 3px solid #000;
