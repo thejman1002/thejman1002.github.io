@@ -17,15 +17,14 @@
   width: 30%;
 }
 #middle_podcast {
-  border-bottom: 1px solid #000;
-  vertical-align: middle;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  position: relative;
+  float: left;
+  width: 30%;
 }
 #bottom_podcast {
-  vertical-align: middle;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  position: relative;
+  float: left;
+  width: 30%;
 }
 #middle_panel {
   width: 73%;
