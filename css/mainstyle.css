@@ -19,9 +19,16 @@
   float: left;
   padding-left: 5px;
 }
-#top_section {
+#top_podcast {
   border-bottom: 1px solid #000;
   vertical-align: middle;
+  padding-bottom: 10px;
+}
+#middle_podcast,
+#bottom_podcast {
+  border-bottom: 1px solid #000;
+  vertical-align: middle;
+  padding-top: 10px;
   padding-bottom: 10px;
 }
 #middle_panel {
