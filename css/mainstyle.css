@@ -14,7 +14,7 @@
 }
 #right_panel {
   width: 27%;
-  height: 600px;
+  height: 100%;
   position: relative;
   float: left;
   padding-left: 5px;
@@ -24,9 +24,13 @@
   vertical-align: middle;
   padding-bottom: 10px;
 }
-#middle_podcast,
-#bottom_podcast {
+#middle_podcast {
   border-bottom: 1px solid #000;
+  vertical-align: middle;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#bottom_podcast {
   vertical-align: middle;
   padding-top: 10px;
   padding-bottom: 10px;
