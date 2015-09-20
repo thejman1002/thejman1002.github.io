@@ -22,7 +22,7 @@
   position: relative;
   float: left;
   width: 32%;
-  padding-left: 10px;
+  margin: 0 auto;
 }
 #middle_panel {
   width: 73%;
