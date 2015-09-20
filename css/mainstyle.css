@@ -11,20 +11,13 @@
   position: relative;
   float: left;
 }
-#top_podcast {
+#left_podcast,
+#middle_podcast,
+#right_podcast {
   position: relative;
   float: left;
   width: 30%;
-}
-#middle_podcast {
-  position: relative;
-  float: left;
-  width: 30%;
-}
-#bottom_podcast {
-  position: relative;
-  float: left;
-  width: 30%;
+  padding-left: 10px;
 }
 #middle_panel {
   width: 73%;
