@@ -11,16 +11,13 @@
   position: relative;
   float: left;
 }
-#right_panel {
-  width: 27%;
-  position: relative;
-  float: left;
-  padding-left: 5px;
-}
 #top_podcast {
   border-bottom: 1px solid #000;
   vertical-align: middle;
   padding-bottom: 10px;
+  position: relative;
+  float: left;
+  width: 30%;
 }
 #middle_podcast {
   border-bottom: 1px solid #000;
@@ -42,8 +39,7 @@
   border-left: 1px solid #000;
   border-right: 1px solid #000;
 }
-#middle_panel h1,
-#right_panel h1 {
+#middle_panel h1 {
   text-align: center;
   font-size: 30px;
 }
