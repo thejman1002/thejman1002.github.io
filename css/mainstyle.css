@@ -11,7 +11,11 @@
   position: relative;
   float: left;
 }
-#left_podcast,
+#left_podcast {
+  position: relative;
+  float: left;
+  width: 32%;
+}
 #middle_podcast,
 #right_podcast {
   position: relative;
