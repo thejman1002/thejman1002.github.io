@@ -4,6 +4,9 @@
   width: 1280px;
   margin: auto;
   font-family: 'Lato', sans-serif;
+  border-right: 2px solid #000;
+  border-left: 2px solid #000;
+  border-top: 2px solid #000;
 }
 #left_panel {
   width: 25%;
@@ -28,7 +31,6 @@
   float: left;
   padding: 10px;
   border-left: 1px solid #000;
-  border-right: 1px solid #000;
 }
 #middle_panel h1 {
   text-align: center;
@@ -39,7 +41,6 @@
 /*Title Bar Style*/
 #titlebar {
   width: 90%;
-  border-bottom: 1px solid #000;
   margin: 0 auto;
 }
 
