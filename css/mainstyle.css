@@ -46,6 +46,11 @@ body {
 #middle_podcast {
   margin: 0 2%;
 }
+#page_divider {
+  background-image: url("../assets/pagedivider.png");
+  background-repeat:no-repeat;
+  background-position: 0px center;
+}
 
 
 /*Title Bar Style*/
