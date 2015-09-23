@@ -1,7 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);
 /*Body Styles*/
 body {
-  background-color: #BCC3C7;
+  background-color: #E6E8EA;
 }
 #body_wrapper {
   width: 1280px;
@@ -13,22 +13,21 @@ body {
   border-top: 1px solid #A6AFB5;
   background-color: #fff;
 }
+
+/*Left Panel Styling*/
 #left_panel {
   width: 25%;
   height: 600px;
   position: relative;
   float: left;
 }
-#left_podcast,
-#middle_podcast,
-#right_podcast {
-  position: relative;
-  float: left;
-  width: 30%;
+#left_panel_text {
+  width: 100%;
+  padding-left: 5px;
+  padding-right: 5px;
 }
-#middle_podcast {
-  margin: 0 5%;
-}
+
+/*Right Panel Styling*/
 #middle_panel {
   width: 73%;
   height: 600px;
@@ -40,6 +39,16 @@ body {
 #middle_panel h1 {
   text-align: center;
   font-size: 30px;
+}
+#left_podcast,
+#middle_podcast,
+#right_podcast {
+  position: relative;
+  float: left;
+  width: 30%;
+}
+#middle_podcast {
+  margin: 0 5%;
 }
 
 
