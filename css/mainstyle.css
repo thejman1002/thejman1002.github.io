@@ -47,9 +47,12 @@ body {
   margin: 0 2%;
 }
 #page_divider {
-  background-image: url("../assets/pagedivider.png");
+  background-image: url("../assets/pagedivider.jpg");
   background-repeat:no-repeat;
   background-position: 0px center;
+  background-size: 100% 100%;
+  width: 400px;
+  height: 30px;
 }
 
 
