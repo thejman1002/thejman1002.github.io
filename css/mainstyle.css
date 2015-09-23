@@ -23,8 +23,7 @@ body {
 }
 #left_panel_text {
   width: 100%;
-  padding-left: 5px;
-  padding-right: 5px;
+  padding: 0 10px;
 }
 
 /*Right Panel Styling*/
