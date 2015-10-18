@@ -106,15 +106,7 @@ body {
   top: 1px;
   left: 99%;
 }
-#cssmenu ul li > ul {
-  opacity: 0;
-  -webkit-transition: .2s ease;
-  -moz-transition: .2s ease;
-  -o-transition: .2s ease;
-  transition: .2s ease;
-}
 #cssmenu ul li:hover > ul {
-  opacity: 1;
   visibility: visible;
 }
 #cssmenu ul li {
