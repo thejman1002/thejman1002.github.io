@@ -25,12 +25,12 @@ body {
 
 /*Right Panel Styling*/
 #middle_panel {
-  width: 73%;
+  width: 71%;
   height: 600px;
   position: relative;
   float: left;
   padding: 10px;
-  border-left: 1px solid #000;
+  border-left: 3px solid #E6E8EA;
 }
 #middle_panel h1 {
   text-align: center;
