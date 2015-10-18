@@ -39,7 +39,6 @@ body {
 #left_podcast,
 #middle_podcast,
 #right_podcast {
-  position: relative;
   float: left;
   width: 32%;
 }
