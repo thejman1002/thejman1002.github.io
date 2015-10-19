@@ -62,6 +62,12 @@ body {
   margin: 0 auto;
 }
 
+/* Main Body Section */
+#textsection {
+  width: 100%
+  border-bottom: 1px solid #000;
+}
+
 /* Starter CSS for Flyout Menu */
 #cssmenu,
 #cssmenu ul,
