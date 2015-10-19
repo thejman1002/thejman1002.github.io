@@ -64,8 +64,14 @@ body {
 
 /* Main Body Section */
 #textsection {
+  position: relative;
   float: top;
   border-bottom: 1px solid #A6AFB5;
+}
+#leftpart {
+  position: absolute;
+  float: left;
+  width: 32%;
 }
 
 /* Starter CSS for Flyout Menu */
