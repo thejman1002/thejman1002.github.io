@@ -184,7 +184,7 @@ dl.horizontal dd {
 /* ---------------------------------------------------- */
 
 #header-top {
-	border-bottom: 1px solid #e3e1d9;
+	/*border-bottom: 1px solid #e3e1d9;*/
 	background: #fafafa;
 	color: #858278;
 	height: 31px;
