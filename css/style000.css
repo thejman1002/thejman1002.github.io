@@ -195,7 +195,7 @@ dl.horizontal dd {
 		#header-top .rss-icon {
 			position: absolute;
 			right: 65px;
-			top: 2px;
+			top: 1px;
 		}
 
 		#header-top .left { float: left; }
