@@ -3,7 +3,7 @@
 /* ---------------------------------------------------- */
 
 body {
-	background: #000000 url(../imgs/top-shin.png) repeat-x;
+	background: #000000; /*url(../imgs/top-shin.png) repeat-x;*/
 	color: #5e5c5c;
 	font: 11px/1.5 Arial,"Helvetica Neue",Helvetica,sans-serif;
 }
