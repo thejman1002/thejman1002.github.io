@@ -229,7 +229,7 @@ dl.horizontal dd {
 /* ---------------------------------------------------- */
 
 #nav {
-	background: #fafafa url(../imgs/nav-bg00.png) repeat-x;
+	background: #000000 url(../imgs/nav-bg00.png) repeat-x;
 	border-bottom: 1px solid #fff;
 	border-top: 1px solid #e3e1d9;
 	height: 39px;
