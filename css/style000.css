@@ -356,7 +356,7 @@ dl.horizontal dd {
 		}
 
 #nav-shadow {
-	background: url(../imgs/nav-shad.png) repeat-x;
+	/*background: url(../imgs/nav-shad.png) repeat-x;*/
 	height: 135px;
 	margin-bottom: -105px;
 }
