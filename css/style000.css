@@ -1236,13 +1236,12 @@ dl.horizontal dd {
 					display:block;
 					font-size: 12px;
 					font-weight: bold;
-					margin-bottom: 10px;
 					text-decoration: none;
 				}
 
 				#recent-tabs .list-wrap li .meta {
 					color: #8d8c8a;
-					margin: 0;
+					margin: 1px 0;
 				}
 
 					#recent-tabs .list-wrap li .meta a {
