@@ -1,0 +1,38 @@
+<ul id="recent-tabs-posts">
+	<li>
+		<a href="#" class="title">
+			<img src="imgs/juliojones.jpeg" width="50" height="50" alt="" />
+			Julio Jones
+		</a>
+		<p class="meta">Seasons Played: 4; Total Points: 4000</p>
+		<p class="meta">Points/Season: 109; Points/Game: 34</p>
+	</li>
+	<li>
+		<a href="#" class="title">
+			<img src="imgs/recent-q.jpg" width="40" height="40" alt="" />
+			Header ###2
+		</a>
+		<p class="meta">Published on <a href="#">March 29, 2010</a> by <a href="#">John Doe</a></p>
+	</li>
+	<li>
+		<a href="#" class="title">
+			<img src="imgs/recent-r.jpg" width="40" height="40" alt="" />
+			Header ###3
+		</a>
+		<p class="meta">Published on <a href="#">March 29, 2010</a> by <a href="#">John Doe</a></p>
+	</li>
+	<li>
+		<a href="#" class="title">
+			<img src="imgs/recent-s.jpg" width="40" height="40" alt="" />
+			Header ###4
+		</a>
+		<p class="meta">Published on <a href="#">March 29, 2010</a> by <a href="#">John Doe</a></p>
+	</li>
+	<li>
+		<a href="#" class="title">
+			<img src="imgs/recent-t.jpg" width="40" height="40" alt="" />
+			Header ###5
+		</a>
+		<p class="meta">Published on <a href="#">March 29, 2010</a> by <a href="#">John Doe</a></p>
+	</li>
+</ul>
