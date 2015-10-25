@@ -1237,10 +1237,13 @@ dl.horizontal dd {
 					font-size: 12px;
 					font-weight: bold;
 					text-decoration: none;
+					margin: 1px 0;
 				}
 
 				#recent-tabs .list-wrap li .meta {
 					color: #8d8c8a;
+					font-weight: bold;
+					font-size: 10px;
 					margin: 1px 0;
 				}
 
