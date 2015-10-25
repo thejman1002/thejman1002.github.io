@@ -245,6 +245,10 @@ $(document).ready(function(){
 			$.each(eachPlayer,function(number){
 				$('#recent-tabs-posts').append('<li><p class="title"><img src="'+eachPlayer[number]+'" width="50" height="50" alt="" />'+eachPlayer[number+1]+'</p><p class="meta">'+eachPlayer[number+2]+'</p><p class="meta">'+eachPlayer[number+3]+'</p></li>');
 			});
+			number+=3;
+			if(number >= eachPlayer.length - 1){
+				return false;
+			}
 		}
 	});
 	/* End Read from File to HTML */
