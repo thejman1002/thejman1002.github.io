@@ -236,7 +236,7 @@ $(document).ready(function(){
 
 	/* Read from File to HTML */
 	$.ajax({
-		url : "player_rankings.txt",
+		url : "../player_rankings.txt",
 		dataType: "text",
 		success : function (data) {
 			$("$recent-tabs-posts").html(data.replace(/n/g,''));
