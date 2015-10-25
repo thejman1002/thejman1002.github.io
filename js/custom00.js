@@ -243,9 +243,7 @@ $(document).ready(function(){
 			$('recent-tabs-posts').empty();
 			var eachPlayer = data.split('|');
 			$.each(eachPlayer,function(number){
-				if(number > 0){
-					number += (number * 3);
-				}
+				number += (number * 3);
 				if(number >= eachPlayer.length - 3){
 					return false;
 				}
