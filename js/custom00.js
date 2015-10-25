@@ -235,10 +235,12 @@ $(document).ready(function(){
 	/* End Archive Toggler */
 
 	/* Read from File to HTML */
-	jQuery.get('http://localhost/player_rankings.txt', function(data) {
-	   alert(data);
-	   //process text file line by line
-	   /*$('#recent-tabs-posts').html(data.replace(/n/g,''));*/
+	$.ajax({
+		url : "player_rankings.txt",
+		dataType: "text",
+		success : function (data) {
+			$("$recent-tabs-posts").html(data.replace(/n/g,''));
+		}
 	});
 	/* End Read from File to HTML */
 });
