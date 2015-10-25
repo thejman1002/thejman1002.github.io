@@ -243,7 +243,8 @@ $(document).ready(function(){
 			$('recent-tabs-posts').empty();
 			var eachPlayer = data.split('|');
 			$.each(eachPlayer,function(number){
-				$('#recent-tabs-posts').append('<li>'+eachPlayer[number]+'</li>\n');
+				$('#recent-tabs-posts').append('<p class="title"><img src="'+eachPlayer[number]+'" width="50" height="50" alt="" />'+eachPlayer[number+1]+'</p><p class="meta">'+eachPlayer[number+2]+'</p><p class="meta">'+eachPlayer[number+3]+'</p>');
+				number = number + 3;
 			});
 		}
 	});
