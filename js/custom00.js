@@ -243,7 +243,7 @@ $(document).ready(function(){
 			$('recent-tabs-posts').empty();
 			var eachPlayer = data.split('|');
 			$.each(eachPlayer,function(number){
-				$('#recent-tabs-posts').append('<li>'+eachPlayer[number]'</li>\n');
+				$('#recent-tabs-posts').append('<li>'+eachPlayer[number]+'</li>\n');
 			});
 		}
 	});
