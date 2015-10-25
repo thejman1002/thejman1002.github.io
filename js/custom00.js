@@ -239,6 +239,6 @@ $(document).ready(function(){
 	   alert(data);
 	   //process text file line by line
 	   $('#recent-tabs-posts').html(data.replace(/n/g,''));
-	});
+	}, 'text');
 	/* End Read from File to HTML */
 });
