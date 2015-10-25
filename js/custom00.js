@@ -235,7 +235,7 @@ $(document).ready(function(){
 	/* End Archive Toggler */
 
 	/* Read from File to HTML */
-	jQuery.get('../player_rankings.txt', function(data) {
+	$.get('player_rankings.txt', function(data) {
 	   alert(data);
 	   //process text file line by line
 	   $('#recent-tabs-posts').html(data.replace(/n/g,''));
