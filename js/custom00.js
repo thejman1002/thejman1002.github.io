@@ -239,8 +239,8 @@ $(document).ready(function(){
 		url : "https://raw.githubusercontent.com/thejman1002/thejman1002.github.io/master/player_rankings",
 		dataType: 'text',
 		success : function (data) {
-			alert(data);
-			/*$("$recent-tabs-posts").html(data.replace(/n/g,''));*/
+			/*alert(data);*/
+			$("$recent-tabs-posts").html(data.replace(/n/g,''));
 		}
 	});
 	/* End Read from File to HTML */
