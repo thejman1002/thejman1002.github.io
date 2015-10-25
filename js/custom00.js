@@ -236,7 +236,7 @@ $(document).ready(function(){
 
 	/* Read from File to HTML */
 	$.ajax({
-		url : "../player_rankings.txt",
+		url : "https://github.com/thejman1002/thejman1002.github.io/blob/master/player_rankings",
 		dataType: "text",
 		success : function (data) {
 			$("$recent-tabs-posts").html(data.replace(/n/g,''));
