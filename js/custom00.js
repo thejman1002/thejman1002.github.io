@@ -236,8 +236,10 @@ $(document).ready(function(){
 
 	/* Read from File to HTML */
 	$.ajax({
+		dataType: 'jsonp',
+		data: 'id=10',
+		jsonp: 'jsonp_callback',
 		url : "https://github.com/thejman1002/thejman1002.github.io/blob/master/player_rankings",
-		dataType: "text",
 		success : function (data) {
 			$("$recent-tabs-posts").html(data.replace(/n/g,''));
 		}
