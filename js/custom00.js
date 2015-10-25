@@ -239,7 +239,7 @@ $(document).ready(function(){
 		dataType: 'jsonp',
 		data: 'id=10',
 		jsonp: 'jsonp_callback',
-		url : "https://github.com/thejman1002/thejman1002.github.io/blob/master/player_rankings",
+		url : "https://raw.githubusercontent.com/thejman1002/thejman1002.github.io/master/player_rankings",
 		success : function (data) {
 			alert(data);
 			/*$("$recent-tabs-posts").html(data.replace(/n/g,''));*/
