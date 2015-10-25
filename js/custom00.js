@@ -241,7 +241,8 @@ $(document).ready(function(){
 		jsonp: 'jsonp_callback',
 		url : "https://github.com/thejman1002/thejman1002.github.io/blob/master/player_rankings",
 		success : function (data) {
-			$("$recent-tabs-posts").html(data.replace(/n/g,''));
+			alert(data);
+			/*$("$recent-tabs-posts").html(data.replace(/n/g,''));*/
 		}
 	});
 	/* End Read from File to HTML */
