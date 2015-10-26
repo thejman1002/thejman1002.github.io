@@ -534,8 +534,8 @@ dl.horizontal dd {
 		#main .entry-header {
 			border-bottom: 1px solid #e3e1d9;
 			overflow: hidden;
-			padding: 5px 20px 10px;
 			position: relative;
+			text-align: center;
 		}
 
 		#main .entry-footer {
@@ -550,7 +550,7 @@ dl.horizontal dd {
 
 			#main .entry-header .meta, #main .entry-header .title  {
 				float: left;
-				width: 540px;
+				width: 100%;
 			}
 
 			#main .entry-header .title {
@@ -560,7 +560,7 @@ dl.horizontal dd {
 
 				#main .entry-header .title, #main .entry-header .title a { color: #4e4d4a; }
 
-			#main .entry-header .meta { margin: 0 0 0 2px; }
+			#main .entry-header .meta { margin: 0 0 10px 0; }
 
 				#main .entry-header .meta a {
 					text-decoration: underline;
