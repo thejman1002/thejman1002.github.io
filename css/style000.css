@@ -611,7 +611,7 @@ dl.horizontal dd {
 				#main .entry-links li, #comments .comment-links li {
 					float: left;
 					font-weight: bold;
-					margin: 0;
+					margin: 0 10px;
 				}
 
 					#main .entry-links li a, #main .entry-links li .separator,
