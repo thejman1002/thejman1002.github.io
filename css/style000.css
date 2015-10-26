@@ -608,6 +608,10 @@ dl.horizontal dd {
 				margin-top: -10px;
 			}
 
+				#main .entry-links li.first-link {
+					margin-right: 2px;
+				}
+
 				#main .entry-links li, #comments .comment-links li {
 					float: left;
 					font-weight: bold;
