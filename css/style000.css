@@ -599,7 +599,7 @@ dl.horizontal dd {
 
 			#main .entry-title-image { margin: 6px 20px 0 0; }
 
-			#main .entry-content p { margin-bottom: 10px; }
+			#main .entry-content p { margin-bottom: 10px; font-size: 11px;}
 
 				#main .single .entry-content p, #main .collapsible .entry-content p { margin-bottom: 15px; }
 
