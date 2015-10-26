@@ -605,6 +605,7 @@ dl.horizontal dd {
 
 			#main .entry-links, #comments .comment-links {
 				list-style: none;
+				list-style-type: square;
 				margin-top: -5px;
 			}
 
