@@ -612,6 +612,10 @@ dl.horizontal dd {
 					margin-right: 20px;
 				}
 
+				#main .entry-links li.third-link {
+					margin-right: 20px;
+				}
+
 				#main .entry-links li, #comments .comment-links li {
 					float: left;
 					font-weight: bold;
