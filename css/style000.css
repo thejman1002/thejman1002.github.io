@@ -604,8 +604,7 @@ dl.horizontal dd {
 				#main .single .entry-content p, #main .collapsible .entry-content p { margin-bottom: 15px; }
 
 			#main .entry-links, #comments .comment-links {
-				list-style: none;
-				list-style-type: square;
+				list-style: square;
 				margin-top: -5px;
 			}
 
