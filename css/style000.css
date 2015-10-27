@@ -1306,6 +1306,7 @@ dl.horizontal dd {
 					}
 
 					#sidebar .flickr-feed table tr {
+						margin-top: 5px;
 						font-size: 10px;
 						border-bottom: 1px solid #C7C7C7;
 					}
