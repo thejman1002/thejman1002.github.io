@@ -1299,21 +1299,23 @@ dl.horizontal dd {
 					width: 100%;
 				}
 
+					#sidebar .flickr-feed table tr:first-child {
+						font-size: 12px;
+						font-weight: bold;
+						border-bottom: 1px solid #C7C7C7;
+					}
+
 					#sidebar .flickr-feed table tr {
+						font-size: 10px;
 						border-bottom: 1px solid #C7C7C7;
 					}
 
 					#sidebar .flickr-feed table tr:last-child {
+						font-size: 10px;
 						border-bottom: none;
 					}
 
-						#sidebar .flickr-feed table td:first-child {
-							font-weight: bold;
-							width: 33%;
-						}
-
 						#sidebar .flickr-feed table td {
-							font-size: 10px;
 							width: 33%;
 						}
 
