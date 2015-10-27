@@ -1322,6 +1322,10 @@ dl.horizontal dd {
 							width: 33%;
 						}
 
+							#sidebar .flickr-feed table td p{
+								margin: 0;
+							}
+
 	#sidebar .tags { }
 
 		#sidebar .tags .box-header { padding: 0 10px; }
