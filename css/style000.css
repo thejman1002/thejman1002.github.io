@@ -1294,6 +1294,11 @@ dl.horizontal dd {
 					margin: 13px 13px 0  0;
 				}
 
+				#sidebar .flickr-feed .title-section {
+					font-style: bold;
+					text-align: center;
+				}
+
 	#sidebar .tags { }
 
 		#sidebar .tags .box-header { padding: 0 10px; }
