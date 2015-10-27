@@ -1297,7 +1297,7 @@ dl.horizontal dd {
 				#sidebar .flickr-feed table {
 					font-weight: bold;
 					text-align: center;
-					border: 1px solid #000;
+					border-bottom: 1px solid #C7C7C7;
 				}
 
 					#sidebar .flickr-feed table td{
