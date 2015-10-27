@@ -1300,6 +1300,10 @@ dl.horizontal dd {
 					border: 1px solid #000;
 				}
 
+					#sidebar .flickr-feed table td{
+						width: 33%;
+					}
+
 	#sidebar .tags { }
 
 		#sidebar .tags .box-header { padding: 0 10px; }
