@@ -1277,11 +1277,15 @@ dl.horizontal dd {
 			list-style: none;
 			overflow: hidden;
 			margin: 0;
-			padding: 0 0 15px 10px;
 		}
 
 			#sidebar .flickr-feed li {
-				float:left;
+				border-bottom: 1px solid #c7c7c7;
+				margin: 0;
+			}
+
+			#sidebar .flickr-feed li:last-child {
+				border-bottom: none;
 				margin: 0;
 			}
 
