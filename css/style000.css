@@ -1296,14 +1296,26 @@ dl.horizontal dd {
 
 				#sidebar .flickr-feed table {
 					text-align: center;
-					border-bottom: 1px solid #C7C7C7;
 					width: 100%;
 				}
 
-					#sidebar .flickr-feed table td {
-						font-weight: bold;
-						width: 33%;
+					#sidebar .flickr-feed table tr {
+						border-bottom: 1px solid #C7C7C7;
 					}
+
+					#sidebar .flickr-feed table tr:last-child {
+						border-bottom: none;
+					}
+
+						#sidebar .flickr-feed table td:first-child {
+							font-weight: bold;
+							width: 33%;
+						}
+
+						#sidebar .flickr-feed table td {
+							font-size: 10px;
+							width: 33%;
+						}
 
 	#sidebar .tags { }
 
