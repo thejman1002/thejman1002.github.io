@@ -1295,13 +1295,13 @@ dl.horizontal dd {
 				}
 
 				#sidebar .flickr-feed table {
-					font-weight: bold;
 					text-align: center;
 					border-bottom: 1px solid #C7C7C7;
 					width: 100%;
 				}
 
-					#sidebar .flickr-feed table td{
+					#sidebar .flickr-feed table td {
+						font-weight: bold;
 						width: 33%;
 					}
 
