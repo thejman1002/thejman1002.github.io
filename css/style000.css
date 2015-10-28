@@ -1338,7 +1338,7 @@ dl.horizontal dd {
 		}
 
 			#sidebar .tags li {
-				float: left;
+				font-size: 12px;
 				margin: 0 0 7px;
 			}
 
@@ -1346,6 +1346,7 @@ dl.horizontal dd {
 					color: #8f8f8f;
 					padding: 3px 8px;
 					text-decoration: none;
+					font-weight: bold;
 				}
 
 					#sidebar .tags li a:hover {
