@@ -493,7 +493,7 @@ dl.horizontal dd {
 			#content .box-header h6 {
 				display: inline;
 				font-size: 12px;
-				margin: 0;
+				margin: 0 0 0 7px;
 			}
 
 		#content .box-footer {
