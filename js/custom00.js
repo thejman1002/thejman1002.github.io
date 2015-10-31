@@ -236,18 +236,18 @@ $(document).ready(function(){
 
 	/* Read from File to HTML */
 	$.ajax({
-		url : "https://raw.githubusercontent.com/thejman1002/thejman1002.github.io/master/player_rankings",
+		url : "https://raw.githubusercontent.com/thejman1002/thejman1002.github.io/master/league-updates",
 		dataType: 'text',
 		success : function(data) {
 			/*alert(data);*/
 			$('recent-tabs-posts').empty();
 			var eachPlayer = data.split('|');
 			$.each(eachPlayer,function(number){
-				number += (number * 3);
-				if(number >= eachPlayer.length - 3){
+				number += (number * 2);
+				if(number >= eachPlayer.length - 2){
 					return false;
 				}
-				$('#recent-tabs-posts').append('<li><p class="title"><img src="'+eachPlayer[number]+'" width="50" height="50" alt="" />'+eachPlayer[number+1]+'</p><p class="meta">'+eachPlayer[number+2]+'</p><p class="meta">'+eachPlayer[number+3]+'</p></li>');
+				$('#recent-tabs-posts').append('<li><p class="title">'+eachPlayer[number]+'</p><p class="meta">'+eachPlayer[number+1]+'</p><p class="meta">'+eachPlayer[number+2]+'</p></li>');
 			});
 		}
 	});
