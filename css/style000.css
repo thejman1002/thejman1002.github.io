@@ -1238,8 +1238,6 @@ dl.horizontal dd {
 				#recent-tabs .list-wrap li:first-child { border-top: none; }
 				#recent-tabs .list-wrap li:last-child { border-bottom: none; }
 
-					#recent-tabs .list-wrap li:hover { background: #fafafa; }
-
 				#recent-tabs .list-wrap li img {
 					border: 2px solid #000;
 					float: left;
@@ -1257,7 +1255,6 @@ dl.horizontal dd {
 
 				#recent-tabs .list-wrap li .meta {
 					color: #6a6965;
-					font-weight: bold;
 					font-size: 11px;
 					margin: 1px 0;
 				}

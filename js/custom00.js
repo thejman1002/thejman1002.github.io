@@ -243,11 +243,11 @@ $(document).ready(function(){
 			$('recent-tabs-posts').empty();
 			var eachPlayer = data.split('|');
 			$.each(eachPlayer,function(number){
-				number += (number * 2);
-				if(number >= eachPlayer.length - 2){
+				number += (number * 1);
+				if(number >= eachPlayer.length - 1){
 					return false;
 				}
-				$('#recent-tabs-posts').append('<li><p class="title">'+eachPlayer[number]+'</p><p class="meta">'+eachPlayer[number+1]+'</p><p class="meta">'+eachPlayer[number+2]+'</p></li>');
+				$('#recent-tabs-posts').append('<li><p class="title">'+eachPlayer[number]+'</p><p class="meta">'+eachPlayer[number+1]+'</p></li>');
 			});
 		}
 	});
