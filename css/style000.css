@@ -1191,7 +1191,7 @@ dl.horizontal dd {
 		#recent-tabs .nav {
 			list-style: none;
 			margin: 0 -20px;
-			overflow: visible;
+			overflow: hidden;
 		}
 
 			#recent-tabs .nav li {
