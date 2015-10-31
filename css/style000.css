@@ -1220,7 +1220,9 @@ dl.horizontal dd {
 			overflow: hidden;
 		}
 
-		#recent-tabs-post {
+		#recent-tabs .list-wrap ul:first-child {
+			list-style:none;
+			margin: 0;
 			overflow: visible;
 			height: 500px;
 		}
