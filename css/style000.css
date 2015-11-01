@@ -587,9 +587,13 @@ dl.horizontal dd {
 				margin: 0;
 			}
 
-				#main .entry-content table td{
+				#main .entry-content table td {
 					border-right: 1px solid #C7C7C7;
-					padding: 0 5px;
+					padding: 0 10px;
+				}
+
+				#main .entry-content table td:last-child {
+					border-right: none;
 				}
 
 			#main .entry-image, #main .entry-title-image {
