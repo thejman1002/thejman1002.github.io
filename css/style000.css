@@ -585,6 +585,7 @@ dl.horizontal dd {
 			#main .entry-content table {
 				width: 100%;
 				margin: 0;
+				text-align: center;
 			}
 
 				#main .entry-content table td {
